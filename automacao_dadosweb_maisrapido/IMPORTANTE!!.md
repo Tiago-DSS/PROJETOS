@@ -1,0 +1,2 @@
+    Esse script tem o mesmo problema da sua versão antiga, roda apenas localmente e é facilmente bloqueado em sites com uma segurança alta por não ter humanização.
+    O proximo script vai ter esse como base e melhorias significantes, focando em não ser mais humanizado e que rode em mais maquinas sem dar erro. 
