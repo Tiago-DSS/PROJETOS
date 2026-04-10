@@ -1,2 +1,2 @@
 # PROJETOS
-Aqui estará salvo todos os meus projetos pessoais ou profissionais
+Aqui estará salvo todos os meus projetos pessoais
