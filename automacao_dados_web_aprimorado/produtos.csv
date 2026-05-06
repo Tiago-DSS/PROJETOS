@@ -1,5 +1,5 @@
 codigo,marca,tipo,categoria,preco_unitario,custo,obs
-MOLO000251,Logitech,Mouse,1,25.95,6.50,
+MOLO000251,Logitech,Mouse,1,25.95,6.50,Danificado
 MOLO000192,Logitech,Mouse,2,19.95,5.00,
 CAHA000251,Hashtag,Camisa,1,25.00,11.00,
 CAHA000252,Hashtag,Camisa,2,25.00,11.00,Conferir estoque
@@ -29,8 +29,8 @@ TESE0003817,SEMP,Televisao,17,380.00,91.20,
 TESE0005018,SEMP,Televisao,18,500.00,140.00,
 TEPH0004019,Philco,Televisao,19,400.00,120.00,
 TEPH0002720,Philco,Televisao,20,279.80,56.00,
-TETC0001521,TCL,Televisao,21,158.00,36.30,
-TETC0002222,TCL,Televisao,22,220.00,59.40,
+TETC0001521,TCL,Televisao,21,158.00,36.30,Devolução
+TETC0002222,TCL,Televisao,22,220.00,59.40,Conferir estoque
 REGA000441,Garmin,Relogio,1,440.00,96.80,
 REGA000722,Garmin,Relogio,2,720.00,187.20,
 REXI000463,Xiaomi,Relogio,3,46.40,11.60,
